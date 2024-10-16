@@ -23,6 +23,9 @@ body {
     padding-bottom: 200px;
     padding-top: 55px;
 }
+.row {
+    padding: 0px 20px;
+}
 .achievement {
     padding-top: 55px;
 }
